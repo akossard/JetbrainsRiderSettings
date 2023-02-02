@@ -2,13 +2,10 @@
   <component name="FileTypeManager" version="18">
     <ignoreFiles list="*.pyc;*.pyo;*.rbc;*.yarb;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc" />
     <extensionMap>
-      <removed_mapping ext="glsl" type="Cg" />
-      <mapping ext="shader" type="GLSL shader file" />
-      <mapping ext="glsl" type="GLSL shader file" />
-      <removed_mapping ext="shader" type="ShaderLab" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
+      <removed_mapping ext="glsl" approved="true" type="Cg" />
       <removed_mapping ext="groovy" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="makefile" approved="true" type="textmate" />
@@ -16,6 +13,7 @@
       <removed_mapping ext="php4" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="php5" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="phtml" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="shader" approved="true" type="ShaderLab" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
       <removed_mapping ext="swift" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="tps" approved="true" type="XML" />
