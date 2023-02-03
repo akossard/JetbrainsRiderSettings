@@ -6,15 +6,15 @@
   <action id="copilot.cycleNextInlays">
     <keyboard-shortcut first-keystroke="alt close_bracket" />
     <keyboard-shortcut first-keystroke="ctrl period" />
-    <keyboard-shortcut first-keystroke="shift e" />
+    <keyboard-shortcut first-keystroke="shift ctrl y" />
   </action>
   <action id="copilot.cyclePrevInlays">
     <keyboard-shortcut first-keystroke="alt open_bracket" />
     <keyboard-shortcut first-keystroke="ctrl comma" />
-    <keyboard-shortcut first-keystroke="shift q" />
+    <keyboard-shortcut first-keystroke="shift ctrl #10000ed" />
   </action>
   <action id="copilot.requestCompletions">
     <keyboard-shortcut first-keystroke="alt back_slash" />
-    <keyboard-shortcut first-keystroke="shift w" />
+    <keyboard-shortcut first-keystroke="ctrl q" />
   </action>
 </keymap>
